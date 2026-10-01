@@ -1,0 +1,1 @@
+export const FAVORITE_BOOKS_STORAGE_KEY = "favorite_books_key";
